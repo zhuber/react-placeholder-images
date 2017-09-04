@@ -1,0 +1,27 @@
+{
+  "name": "react-placeholder-images",
+  "version": "1.0.0",
+  "description": "Placeholder image component, with all options from placeholder.com (formerly placehold.it)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuber/react-placeholder-images.git"
+  },
+  "keywords": [
+    "react",
+    "placeholder",
+    "placehold.it",
+    "image"
+  ],
+  "author": "Zak Huber <zakhuber@gmail.com> (http://esoteryk.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuber/react-placeholder-images/issues"
+  },
+  "homepage": "https://github.com/zhuber/react-placeholder-images#readme"
+}
