@@ -1,9 +1,11 @@
 {
   "name": "react-placeholder-images",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Placeholder image component, with all options from placeholder.com (formerly placehold.it)",
   "main": "lib/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "react": ">=0.11.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "mocha"
