@@ -2,7 +2,7 @@
   "name": "react-placeholder-images",
   "version": "1.0.0",
   "description": "Placeholder image component, with all options from placeholder.com (formerly placehold.it)",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
