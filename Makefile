@@ -14,9 +14,9 @@ clean:
 link:
 	@npm link
 
-build: clean dist test-dist
+build: clean dist
 
-build-local: dist test-dist link
+build-local: dist link
 
 publish:
 	@git push && git push --tags && npm publish
