@@ -1,6 +1,6 @@
 # React Placeholder Images [![Build Status](https://travis-ci.org/zhuber/react-placeholder-images.svg)](https://travis-ci.org/zhuber/react-placeholder-images) [![npm version](https://badge.fury.io/js/react-placeholder-images)](http://badge.fury.io/js/react-placeholder-images)
 
-<img src="https://via.placeholder.com/500x200/F48942?text=Cool,+component+bro" />
+<img src="https://via.placeholder.com/680x150/F48942/FFFFFF?text=This+is+only+temporary" />
 
 Image placeholder component, utilizing images from placeholder.com (formerly placehold.it).
 
